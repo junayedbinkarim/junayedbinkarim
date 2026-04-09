@@ -5,7 +5,7 @@
     <tr>
       <td><img src="./junayed-bin-karim.png" width="180"></td>
       <td>
-        <!-- <h1> Who is Junayed Bin Karim </h1> -->
+        <h1> Who is Junayed Bin Karim ?</h1> 
         <b>Founder, <a href="https://secretcoderml.netlify.app/">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/">Junayed Academy</a> | <a href="https://interactivecares.com/"> Teacher, Interactive Cares </a>
 <a href="https://interactivecares.com/"></a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
 </b><br><br>
