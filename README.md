@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="./junayed-bin-karim.png" alt="Junayed Bin Karim" width="250" align="left" />
+<img src="./junayed-bin-karim.png" alt="Junayed Bin Karim" width="200" />
 # Junayed Bin Karim
 
 **Founder, [Secret Coder](https://secretcoderml.netlify.app/) & [Junayed Academy](https://junayedacademy.netlify.app/) | AI Researcher | Web Developer & Educator**
