@@ -16,9 +16,6 @@
 
 
 
-**Founder, [Secret Coder](https://secretcoderml.netlify.app/) & [Junayed Academy](https://junayedacademy.netlify.app/) | AI Researcher | Web Developer & Educator**
-
-Junayed Bin Karim is a Computer Science and Engineering professional from [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/), Bangladesh (2022-2026). He is the architect behind [Secret Coder](https://secretcoderml.netlify.app/) and [Junayed Academy](https://junayedacademy.netlify.app/), platforms dedicated to Machine Learning mentorship and project-based education. With specialization in Green Computing and Sustainable AI, he has mentored 200+ students. Currently, he serves as a Teacher at [Interactive Cares](https://interactivecares.com/) and is an ex-Computer Instructor at Knowledge IT Institute.
 
 ## Core Expertise
 
