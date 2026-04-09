@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23293031%2Fc572b95b64b6c389eb5e9c8e8de228cb%2FJunayed%20Bin%20Karim.png?generation=1773332832292410&alt=media)
+
 
 # Junayed Bin Karim
 
