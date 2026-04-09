@@ -1,7 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="./junayed-bin-karim.png" alt="Junayed Bin Karim" width="200" />
-# Junayed Bin Karim
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="./junayed-bin-karim.png" alt="Junayed Bin Karim" width="200" />
+  <div>
+    <h1>Junayed Bin Karim</h1>
+    <p><strong>Founder, <a href="https://secretcoderml.netlify.app/">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/">Junayed Academy</a> | AI Researcher | Web Developer & Educator</strong></p>
+  </div>
+</div>
+
+
 
 **Founder, [Secret Coder](https://secretcoderml.netlify.app/) & [Junayed Academy](https://junayedacademy.netlify.app/) | AI Researcher | Web Developer & Educator**
 
