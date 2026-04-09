@@ -1,6 +1,62 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23293031%2Fc572b95b64b6c389eb5e9c8e8de228cb%2FJunayed%20Bin%20Karim.png?generation=1773332832292410&alt=media)
 
-<p>Welcome to my page! </br> I'm <b>Junayed (Zunu)</b>, an AI & Machine Learning Specialist and Frontend (client-side) Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197509.png" width="13"/> <b>Bangladesh</b>. I focus on building sustainable, data-driven solutions that benefit people and the planet.</p>
+# Junayed Bin Karim
+
+**Founder, [Secret Coder](https://secretcoderml.netlify.app/) & [Junayed Academy](https://junayedacademy.netlify.app/) | AI Researcher | Web Developer & Educator**
+
+Junayed Bin Karim is a Computer Science and Engineering professional from [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/), Bangladesh (2022-2026). He is the architect behind [Secret Coder](https://secretcoderml.netlify.app/) and [Junayed Academy](https://junayedacademy.netlify.app/), platforms dedicated to Machine Learning mentorship and project-based education. With specialization in Green Computing and Sustainable AI, he has mentored 200+ students. Currently, he serves as a Teacher at [Interactive Cares](https://interactivecares.com/) and is an ex-Computer Instructor at Knowledge IT Institute.
+
+## Core Expertise
+
+- **Artificial Intelligence**: Machine Learning, NLP, Computer Vision, Predictive Modeling
+- **Web Engineering**: Full-Stack Development (MERN Stack), JavaScript, Responsive Design
+- **Green Computing**: Computational efficiency and environmental sustainability
+- **Educational Leadership**: E-learning strategy and curriculum design
+
+## Professional Milestones
+
+- **Founder, Junayed Academy**: Serving 100+ active learners with project-based AI and Web Dev
+- **Lead Instructor, Secret Coder**: Orchestrating 3-month intensive ML Bootcamps with certification
+- **Researcher**: Investigating Green Computing trends and digital mental health impacts in Bangladesh
+
+## Digital Ecosystem
+
+- **Premium ML Training**: [Secret Coder](https://secretcoderml.netlify.app/)
+- **E-Learning Platform**: [Junayed Academy](https://junayedacademy.netlify.app/)
+- **Education**: BSc in CSE, [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)
+
+---
+
+### [Interactive Cares](https://interactivecares.com/)
+
+**Teacher** · Part-time · Apr 2026 - Present (1 mo) · Remote
+
+Empowering students in Deep Learning and ML Ops through real-world projects, AI model deployment, and workflow automation. Bridging academic theory with industry-ready ML implementation.
+
+---
+
+### [Secret Coder](https://secretcoderml.netlify.app/)
+
+**Founder** · Self-employed · Feb 2024 - Present (2 yrs 3 mos) · Dhaka, Bangladesh (Remote)
+
+Leading a specialized e-learning platform for project-based AI education. Strategic vision, curriculum engineering covering Supervised and Unsupervised Learning, Neural Networks, technical mentorship, research supervision, and partnership development.
+
+**Teacher** · Feb 2024 - Present
+
+Lead Instructor delivering high-quality ML and AI education. Guide 200+ students, oversee 50+ real-world projects, provide thesis support, and design 1-year career roadmaps from non-technical to Data Science roles.
+
+---
+
+### [Knowledge IT Institute](https://knowledgeitinstitute.com/)
+
+**Computer Instructor (Former)** · Full-time · Oct 2025 - Mar 2026 (6 mos) · On-site
+
+Designed hands-on learning in Web Development (HTML, CSS, JavaScript, modern frameworks), ICT, and Digital Skills. Bridged academic theory with real-world applications.
+
+**Web Developer** · Oct 2025 - Dec 2025 (3 mos)
+
+Conducted training in MS Office, Web Development, Data Entry, Freelancing, Digital Marketing, and Graphics Design.
 
 <h3>Things I code with</h3>
 <p>
