@@ -1,20 +1,24 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
-  <table>
+  <table style="border: none; background: #f5f5f5; border-radius: 10px; padding: 20px;">
     <tr>
-      <td><img src="./junayed-bin-karim.png" width="180"></td>
-      <td>
-        <h1> Who is Junayed Bin Karim ?</h1> 
-        <b>Founder, <a href="https://secretcoderml.netlify.app/">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/">Junayed Academy</a> | <a href="https://interactivecares.com/"> Teacher, Interactive Cares </a>
-<a href="https://interactivecares.com/"></a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
-</b><br><br>
-        Junayed Bin Karim is a CSE professional from Daffodil International University (DIU), Bangladesh (2022-2026). He mentors 200+ students in ML and AI.
+      <td width="200" style="border: none;" align="center">
+        <img src="./junayed-bin-karim.png" width="180" style="border-radius: 50%;">
       </td>
+      <td style="border: none;" valign="top">
+        <h1 style="margin: 0; color: #0a66c2;">Junayed Bin Karim</h1>
+        <p style="font-size: 16px; color: #555;">
+          <strong>Founder, <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/" style="text-decoration: none; color: #0a66c2;">Junayed Academy</a></strong><br>
+          <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
+        </p>
+        <p style="font-size: 14px; color: #333; line-height: 1.5;">
+          Junayed Bin Karim is the founder of <strong>Secret Coder</strong> and <strong>Junayed Academy</strong>, platforms dedicated to high-performance Machine Learning mentorship and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
+        </p>
+       </td>
     </tr>
   </table>
 </div>
-
 
 
 
