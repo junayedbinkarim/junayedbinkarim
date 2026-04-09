@@ -1,11 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="./junayed-bin-karim.png" alt="Junayed Bin Karim" width="200" />
-  <div>
-    <h1>Junayed Bin Karim</h1>
-    <p><strong>Founder, <a href="https://secretcoderml.netlify.app/">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/">Junayed Academy</a> | AI Researcher | Web Developer & Educator</strong></p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="./junayed-bin-karim.png" width="180"></td>
+      <td>
+        <h1>Junayed Bin Karim</h1>
+        <b>Founder, <a href="https://secretcoderml.netlify.app/">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/">Junayed Academy</a> | AI Researcher | Web Developer & Educator</b><br><br>
+        Junayed Bin Karim is a CSE professional from Daffodil International University (DIU), Bangladesh (2022-2026). He mentors 200+ students in ML and AI.
+      </td>
+    </tr>
+  </table>
 </div>
 
 
