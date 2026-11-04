@@ -1,4 +1,4 @@
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
   <table style="border: none; background: #f5f5f5; border-radius: 10px; padding: 20px;">
@@ -11,7 +11,7 @@
         <p style="font-size: 16px; color: #555;">
           <strong>Founder, <a href="https://reach-up.netlify.app/" style="text-decoration: none; color: #0a66c2;">Reach Up</a> & 
           <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a></strong> | 
-          <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Former Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
+          <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
         </p>
         <p style="font-size: 14px; color: #333; line-height: 1.5;">
           Junayed Bin Karim is the founder of <strong>Reach Up</strong>, a digital marketing and growth solutions agency, <strong>Secret Coder</strong>, and <strong>Junayed Academy</strong>, platforms dedicated to digital business growth, high-performance Machine Learning mentorship, and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
@@ -27,6 +27,7 @@
 
 - **Artificial Intelligence**: Machine Learning, NLP, Computer Vision, Predictive Modeling
 - **Web Engineering**: Full-Stack Development (MERN Stack), JavaScript, Responsive Design
+- **Digital Marketing**: Social Media Marketing, Meta Ads, LinkedIn Ads, B2B Lead Generation
 - **Green Computing**: Computational efficiency and environmental sustainability
 - **Educational Leadership**: E-learning strategy and curriculum design
 
@@ -34,196 +35,97 @@
 
 - **Founder, Junayed Academy**: Serving 100+ active learners with project-based AI and Web Dev
 - **Lead Instructor, Secret Coder**: Orchestrating 3-month intensive ML Bootcamps with certification
+- **Founder, Reach Up**: Driving digital growth for businesses through strategic marketing
 - **Researcher**: Investigating Green Computing trends and digital mental health impacts in Bangladesh
 
 ## Digital Ecosystem
 
+- **Digital Marketing Agency**: [Reach Up](https://reach-up.netlify.app/)
 - **Premium ML Training**: [Secret Coder](https://secretcoderml.netlify.app/)
 - **E-Learning Platform**: [Junayed Academy](https://junayedacademy.netlify.app/)
 - **Education**: BSc in CSE, [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)
 
 ---
 
-  <!-- Timeline section - updated with Reach Up first and proper structure -->
-</p>
+### [Reach Up](https://reach-up.netlify.app/)
 
-<div class="timeline">
+**Founder & Digital Marketing Specialist** · Self-employed · Jan 2022 - Present (4 yrs 11 mos) · Remote
 
-  <!-- 1. Reach Up (Founder) - first entry as requested -->
-  <div class="timeline-item">
-    <div class="timeline-header">
-      <h4><a href="#" target="_blank" rel="noopener">Reach Up</a></h4>
-      <p class="role"><strong>Digital Marketing Specialist</strong> · Self-employed</p>
-      <p class="meta">Jan 2022 – Present · 4 yrs 11 mos · Remote</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        Founder of Reach Up, leading development and execution of digital marketing strategies 
-        to help businesses strengthen online presence, increase brand visibility, generate qualified leads, 
-        and drive customer acquisition. Oversee marketing direction, client strategy, campaign planning, 
-        and delivery of digital growth solutions.
-      </p>
-      <p>
-        Manage social media marketing across Facebook, Instagram, LinkedIn, and TikTok; 
-        plan and optimize Meta Ads and LinkedIn Ads campaigns; develop B2B lead-generation strategies; 
-        conduct audience research and targeting; manage campaign performance; and develop 
-        social media growth and engagement strategies.
-      </p>
-      <p>
-        Work closely with clients to understand business objectives, target audiences, market positioning, 
-        and growth requirements, then develop customized digital marketing strategies aligned with goals. 
-        Oversee campaigns from strategy and execution through performance analysis and optimization, 
-        focusing on measurable marketing outcomes.
-      </p>
-      <p class="skills">
-        <strong>Core Areas of Expertise:</strong> Digital Marketing Strategy, Social Media Marketing, 
-        Social Media Management, Meta Ads, LinkedIn Ads, B2B Marketing, Lead Generation, Performance Marketing, 
-        Audience Targeting, Campaign Management, Brand Strategy, Online Presence, Customer Acquisition, 
-        Social Media Growth, and Marketing Analytics.
-      </p>
-      <p class="project">
-        <strong>Digital Marketing &amp; Growth Solutions | Reach Up</strong> — 
-        Helping businesses grow through digital marketing, social media management, e-commerce solutions, 
-        and technical support. Services include: Digital Marketing, Social Media Management, 
-        Dropshipping &amp; Store Management, Order Fulfillment, Technical Support, and Customer Support.
-        <em>Reach Up — Your Profitable Partner.</em>
-      </p>
-    </div>
-  </div>
+As the Founder of Reach Up, I lead the development and execution of digital marketing strategies that help businesses strengthen their online presence, increase brand visibility, generate qualified leads, and drive customer acquisition. I oversee the overall marketing direction, client strategy, campaign planning, and delivery of digital growth solutions tailored to each business.
 
-  <!-- 2. Secret Coder (Founder / Teacher) -->
-  <div class="timeline-item">
-    <div class="timeline-header">
-      <h4><a href="https://secretcoderml.netlify.app/" target="_blank" rel="noopener">Secret Coder</a></h4>
-      <p class="role"><strong>Founder</strong> · Self-employed · Dhaka, Bangladesh (Remote)</p>
-      <p class="meta">Feb 2024 – Present (2 yrs 9 mos)</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        Founder of Secret Coder, a specialized e-learning platform dedicated to empowering the next generation 
-        of AI professionals through project-based and research-focused education. Lead strategic vision, 
-        curriculum engineering, and instructional standards for Advanced Machine Learning and Artificial Intelligence programs.
-      </p>
-      <p><strong>Key Responsibilities:</strong></p>
-      <ul>
-        <li><strong>Strategic Leadership:</strong> Architecting long-term vision as a premier destination for AI and ML education, scaling platform impact within the tech ecosystem.</li>
-        <li><strong>Curriculum Engineering:</strong> Designing comprehensive, project-centric curricula covering Supervised/Unsupervised Learning, Neural Networks, and AI deployment strategies.</li>
-        <li><strong>Technical Mentorship:</strong> Providing direct guidance to students and professionals, navigating complex mathematical concepts and practical ML implementation.</li>
-        <li><strong>Research &amp; Thesis Support:</strong> Supervising university-level research projects and undergraduate theses, ensuring academic rigor and industry relevance.</li>
-        <li><strong>Partnership Development:</strong> Building strategic alliances with tech organizations and research institutions for internships and career placements.</li>
-      </ul>
-      <p class="skills">
-        <strong>Specialized Skills:</strong> Machine Learning, Artificial Intelligence, Python, 
-        Research Methodology, Strategic Planning, and Curriculum Development.
-      </p>
-      <p class="project">
-        <strong>Founder | ML &amp; AI Educator | Research &amp; Career Mentor</strong> — 
-        Official website for Secret Coder, an e-learning platform bridging academic theory and industry application. 
-        Project-based training in ML/AI, structured bootcamps, 1-year career roadmaps, and specialized mentorship 
-        for university research and theses.
-        <em>Educational Technology, Project Management and +3 skills.</em>
-      </p>
-    </div>
+My work includes managing social media marketing across Facebook, Instagram, LinkedIn, and TikTok; planning and optimizing Meta Ads and LinkedIn Ads campaigns; developing B2B lead-generation strategies; conducting audience research and targeting; managing campaign performance; and developing social media growth and engagement strategies.
 
-    <!-- Teacher role at Secret Coder (nested) -->
-    <div class="timeline-header sub-role">
-      <h5>Teacher</h5>
-      <p class="meta">Feb 2024 – Present · 2 yrs 9 mos</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        Founder and Lead Instructor of Secret Coder, leading a specialized e-learning platform bridging 
-        academic theory and industry application in Machine Learning and Artificial Intelligence. 
-        Mission to provide high-quality, project-based education empowering students and professionals 
-        to excel in the global AI landscape.
-      </p>
-      <p><strong>Key Responsibilities:</strong></p>
-      <ul>
-        <li><strong>Strategic Leadership:</strong> Architecting long-term vision as a premier AI education destination, focusing on scalable learning models and industry-relevant skill development.</li>
-        <li><strong>Curriculum Engineering:</strong> Designing and maintaining comprehensive, hands-on curricula for ML and AI, from foundational Python to advanced neural networks and model deployment.</li>
-        <li><strong>Technical Mentorship:</strong> Directly guiding 200+ students through interactive live sessions, mastering complex algorithms and data-driven problem-solving.</li>
-        <li><strong>Project Supervision:</strong> Overseeing development of 50+ real-world projects, ensuring students build professional portfolios meeting industry standards.</li>
-        <li><strong>Research &amp; Thesis Support:</strong> Providing expert guidance and technical supervision for university-level research projects and undergraduate theses in AI/ML.</li>
-        <li><strong>Career Roadmap Development:</strong> Designing 1-year career trajectories for learners transitioning from non-technical backgrounds into Data Science and AI roles.</li>
-      </ul>
-      <p class="skills">
-        <strong>Core Expertise:</strong> Machine Learning (Supervised/Unsupervised), Artificial Intelligence (Deep Learning), 
-        Python Programming, Research Methodology, and Strategic Educational Leadership.
-        <em>Web Development, Artificial Intelligence (AI) and +5 skills.</em>
-      </p>
-    </div>
-  </div>
+I work closely with clients to understand their business objectives, target audiences, market positioning, and growth requirements, then develop customized digital marketing strategies aligned with their goals. I oversee campaigns from strategy and execution through performance analysis and optimization, with a focus on measurable marketing outcomes.
 
-  <!-- 3. Interactive Cares (Teacher) -->
-  <div class="timeline-item">
-    <div class="timeline-header">
-      <h4><a href="https://interactivecares.com/" target="_blank" rel="noopener">Interactive Cares</a></h4>
-      <p class="role"><strong>Teacher</strong> · Part-time · Remote</p>
-      <p class="meta">Apr 2026 – Aug 2026 · 5 mos</p>
-      <p class="location">1/E/2, Adabor, Mohammadpur, Behind Shompa · Remote</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        Passionate educator at Interactive Cares, dedicated to empowering students with hands-on knowledge 
-        in Deep Learning (DL) and Machine Learning Operations (MLOps). Guide learners through real-world projects, 
-        helping them understand AI model deployment, workflow automation, and advanced ML pipelines. 
-        Focus on making complex concepts approachable while ensuring practical skills directly applicable in the industry.
-      </p>
-      <p>
-        By integrating theory with project-based learning, aim to nurture the next generation of AI practitioners 
-        and innovators. Mission to bridge the gap between academic understanding and real-world ML implementation, 
-        preparing students for careers in cutting-edge AI and data-driven technology.
-      </p>
-      <p class="skills">
-        <strong>Skills:</strong> Deep Learning, Machine Learning and +1 skill.
-      </p>
-    </div>
-  </div>
+**Core Areas of Expertise:** Digital Marketing Strategy, Social Media Marketing, Social Media Management, Meta Ads, LinkedIn Ads, B2B Marketing, Lead Generation, Performance Marketing, Audience Targeting, Campaign Management, Brand Strategy, Online Presence, Customer Acquisition, Social Media Growth, and Marketing Analytics.
 
-  <!-- 4. Knowledge IT Institute (Computer Instructor & Web Developer) -->
-  <div class="timeline-item">
-    <div class="timeline-header">
-      <h4><a href="https://knowledgeitinstitute.com/" target="_blank" rel="noopener">Knowledge IT Institute</a></h4>
-      <p class="role"><strong>Computer Instructor</strong> · Full-time · On-site</p>
-      <p class="meta">Oct 2025 – Mar 2026 · 6 mos</p>
-      <p class="location">House: 42, Road: 10, Sector: 6, Uttara, Dhaka 1230, Bangladesh</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        As a Computer Instructor at Knowledge IT and Founder of Junayed Academy, design and deliver 
-        hands-on learning experiences in Web Development, ICT, and Digital Skills. Focus on teaching 
-        HTML, CSS, JavaScript, and modern frameworks through project-based methods that make students industry-ready. 
-        Goal to bridge the gap between academic theory and real-world applications — helping learners turn knowledge into action.
-      </p>
-      <p class="project">
-        <strong>সফলতার গল্প</strong> — Web Development, Frontend and +6 skills.
-      </p>
-    </div>
+**Services include:** Digital Marketing, Social Media Management, Dropshipping & Store Management, Order Fulfillment, Technical Support, and Customer Support.
 
-    <!-- Web Developer sub-role -->
-    <div class="timeline-header sub-role">
-      <h5>Web Developer</h5>
-      <p class="meta">Oct 2025 – Dec 2025 · 3 mos</p>
-    </div>
-    <div class="timeline-body">
-      <p>
-        Conduct professional computer training sessions for students in MS Office, Web Development, 
-        Data Entry, Freelancing, Digital Marketing, and Graphics Design.
-      </p>
-    </div>
-  </div>
+*Reach Up — Your Profitable Partner.*
 
-</div>
+---
 
-<hr />
+### [Secret Coder](https://secretcoderml.netlify.app/)
 
-<!-- Optional summary / skills section (kept as-is) -->
+**Founder** · Self-employed · Feb 2024 - Oct 2026 (2 yrs 9 mos) · Dhaka, Bangladesh (Remote)
+
+Founder of Secret Coder, a specialized e-learning platform dedicated to empowering the next generation of AI professionals through project-based and research-focused education. I lead the strategic vision, curriculum engineering, and instructional standards for our Advanced Machine Learning and Artificial Intelligence programs.
+
+**Key Responsibilities:**
+
+- **Strategic Leadership**: Architecting the long-term vision of Secret Coder as a premier destination for AI and Machine Learning education, scaling the platform's impact within the tech ecosystem.
+- **Curriculum Engineering**: Designing comprehensive, project-centric curricula covering Supervised/Unsupervised Learning, Neural Networks, and AI deployment strategies.
+- **Technical Mentorship**: Providing direct guidance to students and professionals, helping them navigate complex mathematical concepts and practical implementation of ML algorithms.
+- **Research & Thesis Support**: Supervising university-level research projects and undergraduate theses, ensuring academic rigor and industry relevance.
+- **Partnership Development**: Building strategic alliances with tech organizations and research institutions to facilitate student internships and career placements.
+
+**Specialized Skills:** Machine Learning, Artificial Intelligence, Python, Research Methodology, Strategic Planning, and Curriculum Development.
+
+**Teacher** · Feb 2024 - Oct 2026 (2 yrs 9 mos)
+
+As the Founder and Lead Instructor of Secret Coder, I lead a specialized e-learning platform dedicated to bridging the gap between academic theory and industry application in the fields of Machine Learning and Artificial Intelligence. My mission is to provide high-quality, project-based education that empowers students and professionals to excel in the global AI landscape.
+
+**Key Responsibilities:**
+
+- **Strategic Leadership**: Architecting the long-term vision of Secret Coder as a premier destination for AI education, focusing on scalable learning models and industry-relevant skill development.
+- **Curriculum Engineering**: Designing and maintaining comprehensive, hands-on curricula for Machine Learning and AI, covering everything from foundational Python to advanced neural networks and model deployment.
+- **Technical Mentorship**: Directly guiding over 200+ students through interactive live sessions, helping them master complex algorithms and data-driven problem-solving.
+- **Project Supervision**: Overseeing the development of 50+ real-world projects, ensuring students build a professional portfolio that meets industry standards.
+- **Research & Thesis Support**: Providing expert guidance and technical supervision for university-level research projects and undergraduate theses in AI and Machine Learning.
+- **Career Roadmap Development**: Designing 1-year career trajectories for learners, focusing on transitioning from non-technical backgrounds into Data Science and AI roles.
+
+**Core Expertise:** Machine Learning (Supervised/Unsupervised), Artificial Intelligence (Deep Learning), Python Programming, Research Methodology, and Strategic Educational Leadership.
+
+---
+
+### [Interactive Cares](https://interactivecares.com/)
+
+**Teacher** · Part-time · Apr 2026 - Aug 2026 (5 mos) · Remote
+
+As a passionate educator at Interactive Cares, I am dedicated to empowering students with hands-on knowledge in Deep Learning (DL) and Machine Learning Operations (ML Ops). My role involves guiding learners through real-world projects, helping them understand AI model deployment, workflow automation, and advanced ML pipelines. I focus on making complex concepts approachable while ensuring practical skills that can be directly applied in the industry.
+
+By integrating theory with project-based learning, I aim to nurture the next generation of AI practitioners and innovators. My mission is to bridge the gap between academic understanding and real-world ML implementation, preparing students for careers in cutting-edge AI and data-driven technology.
+
+**Skills:** Deep Learning, Machine Learning, ML Ops
+
+---
+
+### [Knowledge IT Institute](https://knowledgeitinstitute.com/)
+
+**Computer Instructor** · Full-time · Oct 2025 - Mar 2026 (6 mos) · On-site
+
+As a Computer Instructor at Knowledge IT and Founder of Junayed Academy, I design and deliver hands-on learning experiences in Web Development, ICT, and Digital Skills. I focus on teaching HTML, CSS, JavaScript, and modern frameworks through project-based methods that make students industry-ready. My goal is to bridge the gap between academic theory and real-world applications — helping learners turn knowledge into action.
+
+**Skills:** Web Development, Frontend, ICT, Digital Skills
+
+**Web Developer** · Oct 2025 - Dec 2025 (3 mos)
+
+Conduct professional computer training sessions for students in MS Office, Web Development, Data Entry, Freelancing, Digital Marketing, and Graphics Design.
+
+---
+
 <h3>Things I code with</h3>
 <p>
-  <!-- Add your actual skill icons / tags here (e.g., HTML, CSS, JavaScript, Python, ML, etc.) -->
-  HTML · CSS · JavaScript · Python · Machine Learning · Artificial Intelligence · Digital Marketing · 
-  Meta Ads · LinkedIn Ads · Social Media Management · MLOps · Deep Learning · Web Development
-</p>
   <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
