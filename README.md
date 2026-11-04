@@ -14,7 +14,7 @@
           <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
         </p>
         <p style="font-size: 14px; color: #333; line-height: 1.5;">
-          Junayed Bin Karim is the founder of <strong>Reach Up</strong>, a digital marketing and growth solutions agency, <strong>Secret Coder</strong>, and <strong>Junayed Academy</strong>, platforms dedicated to digital business growth, high-performance Machine Learning mentorship, and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
+          Junayed Bin Karim is the founder of <strong>Reach Up</strong>, a digital marketing and growth solutions agency, <strong>Secret Coder</strong> platform dedicated to digital business growth, high-performance Machine Learning mentorship, and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
         </p>
        </td>
     </tr>
@@ -42,7 +42,6 @@
 
 - **Digital Marketing Agency**: [Reach Up](https://reach-up.netlify.app/)
 - **Premium ML Training**: [Secret Coder](https://secretcoderml.netlify.app/)
-- **E-Learning Platform**: [Junayed Academy](https://junayedacademy.netlify.app/)
 - **Education**: BSc in CSE, [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)
 
 ---
