@@ -46,6 +46,7 @@
 - **Education**: BSc in CSE, [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)
 
 ---
+## Professional Experience
 
 ### [Reach Up](https://reach-up.netlify.app/)
 
