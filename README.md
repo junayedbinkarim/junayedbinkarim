@@ -15,9 +15,11 @@
         </p>
         
 
+
 <p style="font-size: 14px; color: #333; line-height: 1.5;">
-  Junayed Bin Karim is the founder of <strong><a href="https://reach-up.netlify.app/">Reach Up</a></strong>, a digital marketing and business growth agency, and <strong><a href="https://secretcoderml.netlify.app/">Secret Coder</a></strong>, a platform dedicated to Machine Learning, Artificial Intelligence, project-based technical education, and professional mentorship. He is a Computer Science and Engineering (CSE) professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022–2026), with expertise in Digital Marketing, Software Development, Deep Learning, and MLOps. He has mentored <strong>200+ students</strong>, guided <strong>50+ real-world projects</strong>, and supported academic research and thesis development in Machine Learning and AI.
+  Junayed Bin Karim is the founder of <strong><a href="https://reach-up.netlify.app/">Reach Up</a></strong>, a digital marketing and business growth agency, and <strong><a href="https://secretcoderml.netlify.app/">Secret Coder</a></strong> (Feb 2024 – Oct 2026), a platform dedicated to Machine Learning, Artificial Intelligence, project-based technical education, and professional mentorship. He is a Computer Science and Engineering (CSE) professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022–2026), with expertise in Digital Marketing, Software Development, Deep Learning, and MLOps. He has mentored <strong>200+ students</strong>, guided <strong>50+ real-world projects</strong>, and supported academic research and thesis development in Machine Learning and AI.
 </p>
+
 
   </table>
 </div>
