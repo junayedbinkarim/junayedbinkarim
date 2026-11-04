@@ -9,7 +9,7 @@
       <td style="border: none;" valign="top">
         <h1 style="margin: 0; color: #0a66c2;">Junayed Bin Karim</h1>
         <p style="font-size: 16px; color: #555;">
-          <strong>Founder, <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a> & <a href="https://junayedacademy.netlify.app/" style="text-decoration: none; color: #0a66c2;">Junayed Academy</a></strong><br>
+          <strong>Founder, <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a> 
           <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
         </p>
         <p style="font-size: 14px; color: #333; line-height: 1.5;">
