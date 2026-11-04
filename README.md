@@ -7,7 +7,7 @@
         <img src="./junayed-bin-karim.png" width="180" style="border-radius: 50%;">
       </td>
       <td style="border: none;" valign="top">
-        <h1 style="margin: 0; color: #0a66c2;">Junayed Bin Karim</h1>
+        <h1 style="margin: 0; color: #0a66c2;">Who is Junayed Bin Karim</h1>
         <p style="font-size: 16px; color: #555;">
           <strong>Founder, <a href="https://reach-up.netlify.app/" style="text-decoration: none; color: #0a66c2;">Reach Up</a> & 
           <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a></strong> | 
