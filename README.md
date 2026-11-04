@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
   <table style="border: none; background: #f5f5f5; border-radius: 10px; padding: 20px;">
@@ -9,11 +9,12 @@
       <td style="border: none;" valign="top">
         <h1 style="margin: 0; color: #0a66c2;">Junayed Bin Karim</h1>
         <p style="font-size: 16px; color: #555;">
-          <strong>Founder, <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a> 
-          <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
+          <strong>Founder, <a href="https://reach-up.netlify.app/" style="text-decoration: none; color: #0a66c2;">Reach Up</a> & 
+          <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a></strong> | 
+          <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Former Teacher at Interactive Cares</a> | Machine Learning Specialist | Ex-Instructor, Knowledge IT Institute
         </p>
         <p style="font-size: 14px; color: #333; line-height: 1.5;">
-          Junayed Bin Karim is the founder of <strong>Secret Coder</strong> and <strong>Junayed Academy</strong>, platforms dedicated to high-performance Machine Learning mentorship and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
+          Junayed Bin Karim is the founder of <strong>Reach Up</strong>, a digital marketing and growth solutions agency, <strong>Secret Coder</strong>, and <strong>Junayed Academy</strong>, platforms dedicated to digital business growth, high-performance Machine Learning mentorship, and project-based technical education. He is a CSE professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022-2026), and has mentored <strong>200+ students</strong> in ML and AI.
         </p>
        </td>
     </tr>
