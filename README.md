@@ -14,12 +14,11 @@
           <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a>  | Ex-Instructor, Knowledge IT Institute| Machine Learning Specialist
         </p>
         
-<p style="font-size: 14px; color: #333; line-height: 1.7;">
-  <strong>Junayed Bin Karim</strong> is a Computer Science and Engineering (CSE) professional, entrepreneur, and AI/ML educator from Bangladesh. He is the founder of <strong><a href="https://reach-up.netlify.app/">Reach Up</a></strong>, a digital marketing and business growth agency helping businesses strengthen their online presence, generate leads, and achieve sustainable growth. He also founded <strong><a href="https://secretcoderml.netlify.app/">Secret Coder</a></strong>, an educational platform specializing in Machine Learning, Artificial Intelligence, project-based learning, and technical mentorship. With experience in Deep Learning, MLOps, software development, and digital marketing, he has mentored <strong>200+ students</strong>, guided <strong>50+ real-world projects</strong>, and supported university-level research and thesis development. He completed his B.Sc. in Computer Science and Engineering at <strong>Daffodil International University (DIU)</strong> (2022–2026).
+
+<p style="font-size: 14px; color: #333; line-height: 1.5;">
+  Junayed Bin Karim is the founder of <strong><a href="https://reach-up.netlify.app/">Reach Up</a></strong>, a digital marketing and business growth agency, and <strong><a href="https://secretcoderml.netlify.app/">Secret Coder</a></strong>, a platform dedicated to Machine Learning, Artificial Intelligence, project-based technical education, and professional mentorship. He is a Computer Science and Engineering (CSE) professional from <strong>Daffodil International University (DIU)</strong>, Bangladesh (2022–2026), with expertise in Digital Marketing, Software Development, Deep Learning, and MLOps. He has mentored <strong>200+ students</strong>, guided <strong>50+ real-world projects</strong>, and supported academic research and thesis development in Machine Learning and AI.
 </p>
 
-       </td>
-    </tr>
   </table>
 </div>
 
