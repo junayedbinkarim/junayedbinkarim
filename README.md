@@ -72,8 +72,6 @@ I oversee projects and campaigns from initial strategy and planning through exec
 - Paid Advertising, Boosting & Campaign Management
 - Website, Web Application & Mobile App Development
 - SEO & Search Visibility Optimization
-- Dropshipping & E-commerce Store Management
-- Product Sourcing & Order Fulfillment
 - B2B Lead Generation & Customer Acquisition
 - AI-Powered Solutions & Business Automation
 - Technical Support & IT Solutions
