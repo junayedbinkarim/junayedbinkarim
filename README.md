@@ -64,7 +64,21 @@ I oversee projects and campaigns from initial strategy and planning through exec
 
 **Core Areas of Expertise:** Global Digital Marketing Strategy, Social Media Marketing, Social Media Management, Meta Ads, LinkedIn Ads, B2B Marketing, International Lead Generation, Performance Marketing, Website Development, Web Application Development, App Development, Search Engine Optimization (SEO), Technical SEO, On-Page SEO, Off-Page SEO, Local SEO, Audience Targeting, Campaign Management, Brand Strategy, Global Online Presence, Customer Acquisition, and Marketing Analytics.
 
-**Services include:** Digital Marketing, Social Media Management, Dropshipping & Store Management, Order Fulfillment, Technical Support, and Customer Support.
+
+**Services Include:**
+
+- Digital Marketing & Growth Solutions
+- Social Media Marketing, Management, Growth & Engagement
+- Paid Advertising, Boosting & Campaign Management
+- Website, Web Application & Mobile App Development
+- SEO & Search Visibility Optimization
+- Dropshipping & E-commerce Store Management
+- Product Sourcing & Order Fulfillment
+- B2B Lead Generation & Customer Acquisition
+- AI-Powered Solutions & Business Automation
+- Technical Support & IT Solutions
+- Customer Support & Virtual Assistance
+- Branding & Digital Business Development
 
 *Reach Up — Your Profitable Partner.*
 
