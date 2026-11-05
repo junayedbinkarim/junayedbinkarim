@@ -54,13 +54,15 @@
 
 **Founder & Digital Marketing Specialist** · Self-employed · Jan 2020 - Present · Remote
 
-As the Founder of Reach Up, I lead the development and execution of digital marketing strategies that help businesses strengthen their online presence, increase brand visibility, generate qualified leads, and drive customer acquisition. I oversee the overall marketing direction, client strategy, campaign planning, and delivery of digital growth solutions tailored to each business.
+As the Founder of Reach Up, I lead the development and execution of comprehensive digital strategies that help businesses worldwide strengthen their online presence, expand their global reach, increase brand visibility, generate qualified leads, and drive customer acquisition. I oversee the overall business and marketing direction, client strategy, campaign planning, and delivery of customized digital growth solutions for businesses across international markets.
 
-My work includes managing social media marketing across Facebook, Instagram, LinkedIn, and TikTok; planning and optimizing Meta Ads and LinkedIn Ads campaigns; developing B2B lead-generation strategies; conducting audience research and targeting; managing campaign performance; and developing social media growth and engagement strategies.
+My work spans multiple areas of digital growth, including social media marketing across Facebook, Instagram, LinkedIn, and TikTok; Meta Ads and LinkedIn Ads campaign management; B2B lead generation; website and web application development; Search Engine Optimization (SEO); and digital brand development.
 
-I work closely with clients to understand their business objectives, target audiences, market positioning, and growth requirements, then develop customized digital marketing strategies aligned with their goals. I oversee campaigns from strategy and execution through performance analysis and optimization, with a focus on measurable marketing outcomes.
+I work closely with clients worldwide to understand their business objectives, target audiences, market positioning, and growth requirements. Based on these insights, I develop tailored strategies covering digital marketing, website and app development, search visibility, audience targeting, and customer acquisition.
 
-**Core Areas of Expertise:** Digital Marketing Strategy, Social Media Marketing, Social Media Management, Meta Ads, LinkedIn Ads, B2B Marketing, Lead Generation, Performance Marketing, Audience Targeting, Campaign Management, Brand Strategy, Online Presence, Customer Acquisition, Social Media Growth, and Marketing Analytics.
+I oversee projects and campaigns from initial strategy and planning through execution, performance analysis, and continuous optimization, with a focus on delivering measurable results and sustainable business growth across global markets.
+
+**Core Areas of Expertise:** Global Digital Marketing Strategy, Social Media Marketing, Social Media Management, Meta Ads, LinkedIn Ads, B2B Marketing, International Lead Generation, Performance Marketing, Website Development, Web Application Development, App Development, Search Engine Optimization (SEO), Technical SEO, On-Page SEO, Off-Page SEO, Local SEO, Audience Targeting, Campaign Management, Brand Strategy, Global Online Presence, Customer Acquisition, and Marketing Analytics.
 
 **Services include:** Digital Marketing, Social Media Management, Dropshipping & Store Management, Order Fulfillment, Technical Support, and Customer Support.
 
