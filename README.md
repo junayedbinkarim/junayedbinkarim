@@ -9,7 +9,7 @@
       <td style="border: none;" valign="top">
         <h1 style="margin: 0; color: #0a66c2;">Who is Junayed Bin Karim ?</h1>
         <p style="font-size: 16px; color: #555;">
-          <strong>Founder, <a href="https://reach-up.netlify.app/" style="text-decoration: none; color: #0a66c2;">Reach Up</a> & 
+          <strong>Founder, <a href="https://reach-up.netlify.app/" style="text-decoration: none; color: #0a66c2;">Reach Up</a> (Jan 2020) & 
           <a href="https://secretcoderml.netlify.app/" style="text-decoration: none; color: #0a66c2;">Secret Coder</a></strong> | 
           <a href="https://interactivecares.com/" style="text-decoration: none; color: #0a66c2;">Teacher at Interactive Cares</a>  | Ex-Instructor, Knowledge IT Institute| Machine Learning Specialist
         </p>
