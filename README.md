@@ -52,7 +52,7 @@
 
 ### [Reach Up](https://reach-up.netlify.app/)
 
-**Founder & Digital Marketing Specialist** · Self-employed · Jan 2020 - Present (4 yrs 11 mos) · Remote
+**Founder & Digital Marketing Specialist** · Self-employed · Jan 2020 - Present (6 yrs 11 mos) · Remote
 
 As the Founder of Reach Up, I lead the development and execution of digital marketing strategies that help businesses strengthen their online presence, increase brand visibility, generate qualified leads, and drive customer acquisition. I oversee the overall marketing direction, client strategy, campaign planning, and delivery of digital growth solutions tailored to each business.
 
